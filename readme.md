@@ -5,5 +5,5 @@
 ---
 
 ## 📸 系統截圖 (Screenshots)
-![輸入畫面](Screenshot/smitem-1.png)
-![結果畫面](Screenshot/smitem-2.png)
+![輸入畫面](Screenshot/smitem1.png)
+![結果畫面](Screenshot/smitem2.png)
